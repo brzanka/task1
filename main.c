@@ -116,6 +116,7 @@ void printColorInfo(Color color) {
     printf("Saturation: %.2f\n", saturation);
     printf("Lightness: %.2f\n", lightness);
     printf("\n");
+//pointless comment
 }
 
 Color mixColors() {
